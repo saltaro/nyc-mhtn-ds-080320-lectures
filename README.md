@@ -17,7 +17,7 @@ For any new lecture notes, duplicate the notebook you will be using and rename i
 
 1. Add the learn-co lecture notes repo as the remote, **this step only happens once**
 ```
-git remote add upstream https://github.com/learn-co-students/nyc-mhtn-ds-062220-lectures.git
+git remote add upstream https://github.com/learn-co-students/nyc-mhtn-ds-080320-lectures.git
 ```
 
 2. Check the remote is set and your lecture notes repo is correct.
